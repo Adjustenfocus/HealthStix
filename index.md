@@ -105,7 +105,7 @@ security practices at supabase.com/privacy.
 
 Your account and tracking data is retained for as long as your account is active. You
 can request deletion of your account and all associated data at any time by contacting
-us at **[CONTACT EMAIL]**; we will delete it from Supabase within [X] days.
+us at **justen.m.wilson@gmail.com**; we will delete it from Supabase within [X] days.
 
 Progress photos are stored only on your device, so deleting them or uninstalling the
 App removes them immediately — we never had a copy to begin with.
@@ -125,7 +125,7 @@ for confirming that household member's consent to being tracked in the App.
 
 You can view, edit, or delete your tracking data at any time within the App. You can
 request a copy of your data or full account deletion by contacting us at
-**[CONTACT EMAIL]**. Depending on your location, you may have additional rights under
+**justen.m.wilson@gmail.com**. Depending on your location, you may have additional rights under
 laws such as the GDPR or CCPA, including the right to access, correct, or delete your
 personal information; contact us to exercise these rights.
 

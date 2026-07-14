@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 10 JULY 2026
+**Last updated:** 13 JULY 2026
 
 This Privacy Policy describes how HealthStix ("the App," "we," "us") handles
 information when you use our mobile application. HealthStix is developed and operated
@@ -42,11 +42,14 @@ across your devices and be shared among the profiles in your household account. 
 not sell this data, and we do not share it with advertisers or unrelated third
 parties.
 
-### 2.3 Progress photos
-If you choose to add a progress photo, **that photo is stored only on your device and
-is never uploaded to Supabase or any server we operate.** If you switch devices or
-reinstall the App without your own separate backup, photos will not carry over — this
-is the deliberate trade-off for keeping them fully private.
+### 2.3 Sharing your data with another account (optional)
+The App lets you optionally generate a time-limited invite code that grants another
+person's separate HealthStix account **read-only** access to one specific profile's
+protocol and dose history (what was taken, when, and how much). Symptoms, benefit
+notes, and progress photos are never included in this shared view. You can revoke
+this access at any time, which takes effect immediately. This is separate from
+syncing your own data across your own devices (Section 2.2) — it involves a
+different person's own separate account, not just your own devices.
 
 ### 2.4 Biometric authentication (optional)
 If you enable fingerprint or Face ID unlock, this is handled entirely by your device's
@@ -105,7 +108,11 @@ security practices at supabase.com/privacy.
 
 Your account and tracking data is retained for as long as your account is active. You
 can request deletion of your account and all associated data at any time by contacting
-us at **healthstixsupport@gmail.com**; we will delete it from Supabase within [X] days.
+us at **healthstixsupport@gmail.com**; we will delete it from Supabase within 30 days. 
+You can also delete your account and all associated data yourself at any time from 
+within the App (Account & Settings > Delete Account) — this immediately erases everything 
+on your device and in Supabase. Deleting your account this way does not remove your 
+login credential itself; email us if you'd like that removed too.
 
 Progress photos are stored only on your device, so deleting them or uninstalling the
 App removes them immediately — we never had a copy to begin with.

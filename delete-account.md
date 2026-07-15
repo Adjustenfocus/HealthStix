@@ -10,13 +10,11 @@
   benefits, vials, and progress photos, both on your device and in our
   cloud backend (Supabase).
 
-  **What's retained:** your login credentials (email/authentication
-  record) are not yet deletable from within the app. To fully close your
-  account, email healthstixsupport@gmail.com after completing the
-  **What's retained:** your login credentials (email/authentication
-  record) are not yet deletable from within the app. To fully close your
-  account, email healthstixsupport@gmail.com after completing the
-  in-app deletion above, and we'll remove the login record as well.
+  **What's retained:** What's retained: your login credentials 
+  (email/authentication record) are not yet deletable from within the app —
+  this requires account-level access only we can perform. Completing the 
+  in-app deletion above automatically notifies us so we can remove your 
+  login record as well; you don't need to email us separately.
 
 ## Delete Individual Data (without deleting your account)
 

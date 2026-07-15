@@ -17,3 +17,17 @@
   record) are not yet deletable from within the app. To fully close your
   account, email healthstixsupport@gmail.com after completing the
   in-app deletion above, and we'll remove the login record as well.
+
+## Delete Individual Data (without deleting your account)
+
+  You can delete specific data at any time without deleting your account:
+
+  - **Dose logs**: open History or Schedule, tap any logged dose, and
+    delete it from the edit screen
+  - **Symptoms and benefits**: delete individually from the same dose
+    edit screen, or from where they were logged
+  - **Progress photos**: delete from the Progress Photos gallery
+  - **Protocols**: pause or remove a protocol from the Protocols screen
+
+  Deletions take effect immediately, both on your device and in our
+  cloud backend (Supabase), for accounts with sync enabled.
